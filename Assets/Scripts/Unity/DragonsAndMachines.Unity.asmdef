@@ -1,0 +1,17 @@
+{
+    "name": "DragonsAndMachines.Unity",
+    "rootNamespace": "DragonsAndMachines.Unity",
+    "references": [
+        "DragonsAndMachines.Simulation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

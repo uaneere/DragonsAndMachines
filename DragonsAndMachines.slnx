@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="DragonsAndMachines.Unity.csproj" />
+  <Project Path="DragonsAndMachines.Simulation.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
